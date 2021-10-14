@@ -1,0 +1,12 @@
+Fatura nr: 18
+
+Data: 15/02/2019
+
+Nome: asd
+Morada: asd
+
+
+4_thumb.png    1€
+5_thumb.jpg    1€
+
+Total: 2€
